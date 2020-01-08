@@ -4,16 +4,16 @@
 
 # Site
 title: Enlightenment
-subtitle: ''
+subtitle: 玄之又玄，众妙之门
 description: ''
 keywords:
 author: Onthemooner
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://enlightment.onthemooner.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

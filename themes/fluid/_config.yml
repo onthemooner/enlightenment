@@ -72,7 +72,7 @@ daovoice:  # 在线客服 Daovoice 参考：http://dashboard.daovoice.io
 # Header
 #---------------------------
 navbar:
-  blog_title:  # 导航栏左侧的标题，为空则按 hexo config.title 显示
+  blog_title: Enlightenment # 导航栏左侧的标题，为空则按 hexo config.title 显示
   menu:  # 可自行增减，若想减去某个入口，可以将值留空，显示文本关联 languages
     home: /
     archive: /archives/
@@ -158,7 +158,7 @@ post:
   toc:  # 右侧导航条
     enable: true
   copyright:  # 版权声明
-    enable: true
+    enable: false
     content: '本博客所有文章除特别声明外，均采用 <a href="https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC" rel="nofollow noopener">CC BY-SA 3.0协议</a> 。转载请注明出处！'
   custom:  # 文章底部自定义内容
     enable: false
